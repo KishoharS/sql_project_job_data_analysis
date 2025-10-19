@@ -122,7 +122,7 @@ This project helped me understand the **real-world demand** for data science ski
 ##  Author
 
 **Kishohar**   
-[LinkedIn / GitHub / Portfolio links if available]
+[[LinkedIn](https://www.linkedin.com/in/kishohar/) / [GitHub](https://github.com)]
 
 ---
 
